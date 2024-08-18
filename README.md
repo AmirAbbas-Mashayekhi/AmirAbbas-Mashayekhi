@@ -3,7 +3,7 @@
 - I’m currently learning [Go](https://github.com/golang/go)
 - I'm currently participating in CS50
 - I’m looking to collaborate on [DRF](https://github.com/encode/django-rest-framework) projects
-- How to reach me -> [Telegram](https://t.me/Retro_Vibes), [Email](mailto:amirabbasmashayekhi.dev@gmail.com
+- How to reach me -> [Telegram](https://t.me/Retro_Vibes), [Email](mailto:amirabbasmashayekhi.dev@gmail.com)
 - ⚡ Fun fact: My Tech Nickname is **GLITCH**
 
 <!---
