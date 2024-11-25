@@ -8,7 +8,8 @@
 - ⚡ Fun fact: My Tech Nickname is RETRO
 
 
-## 🌐 Socials:[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amirabbas-mashayekhi-5009122a5) 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amirabbas-mashayekhi-5009122a5) 
 
 
 # 💻 Tech Stack:
