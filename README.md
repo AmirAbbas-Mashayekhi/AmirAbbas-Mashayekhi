@@ -39,7 +39,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/AmirAbbas-Mashayekhi/TaskFlow" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirAbbas-Mashayekhi&repo=TaskFlow&theme=ambient_gradient&locale=en" /></a><a href="https://github.com/AmirAbbas-Mashayekhi/DRF-Notes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirAbbas-Mashayekhi&repo=DRF-Notes&title_color=14b8a6&text_color=14b8a6&icon_color=22c55e&bg_color=1d2633&hide_border=false&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/AmirAbbas-Mashayekhi/TaskFlow" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirAbbas-Mashayekhi&repo=TaskFlow&theme=catppuccin_mocha&locale=en" /></a><a href="https://github.com/AmirAbbas-Mashayekhi/DRF-Notes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirAbbas-Mashayekhi&repo=DRF-Notes&title_color=14b8a6&text_color=14b8a6&icon_color=22c55e&bg_color=1d2633&hide_border=false&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ## Donations
 
