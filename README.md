@@ -34,9 +34,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/AmirAbbas-Mashayekhi" align="left"><img src="https://github-readme-stats.vercel.app/api?username=AmirAbbas-Mashayekhi&show_icons=true&hide=&count_private=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&show_icons=true" width="50%" align="left" alt="AmirAbbas-Mashayekhi's GitHub stats" /></a>
 
-<a href="https://github.com/AmirAbbas-Mashayekhi" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAbbas-Mashayekhi&langs_count=10&title_color=0d1117&theme=chartreuse-dark&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" align="right"/></a>
+<a href="https://github.com/AmirAbbas-Mashayekhi" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAbbas-Mashayekhi&langs_count=5&bg=0d1117&theme=chartreuse-dark&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" align="right"/></a>
 
-<a href="http://www.github.com/AmirAbbas-Mashayekhi"><img src="https://github-readme-streak-stats.herokuapp.com?user=AmirAbbas-Mashayekhi&theme=github-dark" alt="AmirAbbas-Mashayekhi's GitHub Streak" width="60%" align="center" /></a>
+<!--<a href="http://www.github.com/AmirAbbas-Mashayekhi"><img src="https://github-readme-streak-stats.herokuapp.com?user=AmirAbbas-Mashayekhi&theme=github-dark" alt="AmirAbbas-Mashayekhi's GitHub Streak" width="60%" align="center" /></a> -->
 
 <b>Top Repositories</b>
 
