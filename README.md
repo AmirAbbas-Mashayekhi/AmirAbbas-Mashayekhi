@@ -32,10 +32,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirAbbas-Mashayekhi&theme=github-compact&hide_border=true)](https://github.com/AmirAbbas-Mashayekhi/github-readme-activity-graph)
 
 
-<a href="http://www.github.com/AmirAbbas-Mashayekhi" align="left"><img src="https://github-readme-stats.vercel.app/api?username=AmirAbbas-Mashayekhi&show_icons=true&hide=&count_private=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&show_icons=true" width="50%" align="left" alt="AmirAbbas-Mashayekhi's GitHub stats" /></a>
+<a href="http://www.github.com/AmirAbbas-Mashayekhi" align="left"><img src="https://github-readme-stats.vercel.app/api?username=AmirAbbas-Mashayekhi&show_icons=true&hide=&count_private=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&show_icons=true" width="40%" align="left" alt="AmirAbbas-Mashayekhi's GitHub stats" /></a>
   
 
-<a href="http://www.github.com/AmirAbbas-Mashayekhi"><img src="https://github-readme-streak-stats.herokuapp.com?user=AmirAbbas-Mashayekhi&theme=github-dark" alt="AmirAbbas-Mashayekhi's GitHub Streak" width="50%" align="right" /></a>
+<a href="http://www.github.com/AmirAbbas-Mashayekhi"><img src="https://github-readme-streak-stats.herokuapp.com?user=AmirAbbas-Mashayekhi&theme=github-dark" alt="AmirAbbas-Mashayekhi's GitHub Streak" width="40%" align="right" /></a>
 
 <b>Top Repositories</b>
 
