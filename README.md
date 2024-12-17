@@ -1,10 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amirabbas
 ---------------------------------------------
 
-## Back-end Developer
-💻 Experienced in Python, Django, and building APIs <br>
-🎓 Currently studying Computer Science at Azad University <br> 
-📚 Completed CS50x and advancing through CS50W <br>
+💻 **Backend Developer** | Experienced in Python, Django, and building APIs <br>
+🎓 Currently studying Computer Science at Azad University <br>
+📚 Completed `CS50x` and advancing through `CS50W` <br>
 🌱 Always learning, always improving <br>
 
 
