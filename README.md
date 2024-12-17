@@ -35,11 +35,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="http://www.github.com/AmirAbbas-Mashayekhi" align="left"><img src="https://github-readme-stats.vercel.app/api?username=AmirAbbas-Mashayekhi&show_icons=true&hide=&count_private=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&show_icons=true" width="50%" align="center" alt="AmirAbbas-Mashayekhi's GitHub stats" /></a>
   
 
-<!--<a href="http://www.github.com/AmirAbbas-Mashayekhi"><img src="https://github-readme-streak-stats.herokuapp.com?user=AmirAbbas-Mashayekhi&theme=github-dark" alt="AmirAbbas-Mashayekhi's GitHub Streak" width="60%" align="center" /></a> -->
+<a href="http://www.github.com/AmirAbbas-Mashayekhi"><img src="https://github-readme-streak-stats.herokuapp.com?user=AmirAbbas-Mashayekhi&theme=github-dark" alt="AmirAbbas-Mashayekhi's GitHub Streak" width="60%" align="center" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/AmirAbbas-Mashayekhi/TaskFlow" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirAbbas-Mashayekhi&repo=TaskFlow&title_color=14b8a6&text_color=14b8a6&icon_color=22c55e&bg_color=1d2633&hide_border=false&locale=en" /></a><a href="https://github.com/AmirAbbas-Mashayekhi/DRF-Notes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirAbbas-Mashayekhi&repo=DRF-Notes&title_color=14b8a6&text_color=14b8a6&icon_color=22c55e&bg_color=1d2633&hide_border=false&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/AmirAbbas-Mashayekhi/TaskFlow" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirAbbas-Mashayekhi&repo=TaskFlow&theme=ambient_gradient&locale=en" /></a><a href="https://github.com/AmirAbbas-Mashayekhi/DRF-Notes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirAbbas-Mashayekhi&repo=DRF-Notes&title_color=14b8a6&text_color=14b8a6&icon_color=22c55e&bg_color=1d2633&hide_border=false&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ## Donations
 
