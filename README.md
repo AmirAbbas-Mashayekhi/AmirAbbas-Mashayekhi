@@ -2,15 +2,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =================================================================================================================================
 
 Back-end Developer
-------------------
+
 
 💻 Experienced in Python, Django, and building APIs 🎓 Currently studying Computer Science at Azad University 📚 Completed CS50x and advancing through CS50W 🌱 Always learning, always improving
 
 * 🌍  I'm based in Tehran/Iran
 * ✉️  You can contact me at [AmirAbbasMashayekhi.dev@gmail.com](mailto:AmirAbbasMashayekhi.dev@gmail.com)
 * 🧠  I'm learning Docker, Celery, RabbitMQ and ...
-* 🤝  I'm open to collaborating on \*\*Django / Django Rest Framework\*\* Projects
-* ⚡  Nickname: \*\*\*RETRO\*\*\*
+* 🤝  I'm open to collaborating on **Django / Django Rest Framework** Projects
+* ⚡  Nickname: ***RETRO***
 
 ### Skills
 
