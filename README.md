@@ -34,7 +34,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/AmirAbbas-Mashayekhi"><img src="https://github-readme-stats.vercel.app/api?username=AmirAbbas-Mashayekhi&show_icons=true&hide=&count_private=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&show_icons=true" width="50%" align="left" alt="AmirAbbas-Mashayekhi's GitHub stats" /></a>
 
-<a href="http://www.github.com/AmirAbbas-Mashayekhi"><img src="https://github-readme-streak-stats.herokuapp.com?user=AmirAbbas-Mashayekhi&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="AmirAbbas-Mashayekhi's GitHub Streak" width="50%" align="center" /></a>
 
 <b>Top Repositories</b>
 
