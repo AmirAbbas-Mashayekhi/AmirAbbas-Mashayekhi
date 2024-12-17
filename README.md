@@ -42,7 +42,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <div width="100%" align="center"><a href="https://github.com/AmirAbbas-Mashayekhi/TaskFlow" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirAbbas-Mashayekhi&repo=TaskFlow&title_color=14b8a6&text_color=14b8a6&icon_color=22c55e&bg_color=1d2633&hide_border=false&locale=en" /></a><a href="https://github.com/AmirAbbas-Mashayekhi/DRF-Notes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirAbbas-Mashayekhi&repo=DRF-Notes&title_color=14b8a6&text_color=14b8a6&icon_color=22c55e&bg_color=1d2633&hide_border=false&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<h3>Donations:</h3>
+## Donations
 
 If you would like to support me, you can donate me using the following link:
 
