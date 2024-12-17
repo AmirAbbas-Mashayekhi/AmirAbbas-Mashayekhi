@@ -75,11 +75,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirAbbas-Mashayekhi&theme=github-compact&hide_border=true)](https://github.com/AmirAbbas-Mashayekhi/github-readme-activity-graph)
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <a href="http://www.github.com/AmirAbbas-Mashayekhi" style="width: 45%; max-width: 500px; margin: 10px;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <a href="http://www.github.com/AmirAbbas-Mashayekhi" style="flex: 1 1 45%; max-width: 500px; min-width: 280px;">
     <img src="https://github-readme-stats.vercel.app/api?username=AmirAbbas-Mashayekhi&show_icons=true&hide=&count_private=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&show_icons=true" alt="AmirAbbas-Mashayekhi's GitHub stats" />
   </a>
-  <a href="http://www.github.com/AmirAbbas-Mashayekhi" style="width: 45%; max-width: 500px; margin: 10px;">
+  <a href="http://www.github.com/AmirAbbas-Mashayekhi" style="flex: 1 1 45%; max-width: 500px; min-width: 280px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirAbbas-Mashayekhi&theme=github-dark&bg_color=0d1117&hide_border=true&show_icons=true" alt="AmirAbbas-Mashayekhi's GitHub Streak" />
   </a>
 </div>
@@ -88,20 +88,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br />
 <br />
 
-<b>Top Repositories</b>
+<!-- <b>Top Repositories</b>
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/AmirAbbas-Mashayekhi/TaskFlow" style="flex: 1; min-width: 200px;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+  <a href="https://github.com/AmirAbbas-Mashayekhi/TaskFlow" style="flex: 1 1 45%; max-width: 500px; min-width: 280px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirAbbas-Mashayekhi&repo=TaskFlow&theme=catppuccin_mocha&hide_border=true&locale=en" alt="TaskFlow" width="100%" />
   </a>
-  <a href="https://github.com/AmirAbbas-Mashayekhi/DRF-Notes" style="flex: 1; min-width: 200px;">
+  <a href="https://github.com/AmirAbbas-Mashayekhi/DRF-Notes" style="flex: 1 1 45%; max-width: 500px; min-width: 280px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirAbbas-Mashayekhi&repo=DRF-Notes&theme=catppuccin_mocha&hide_border=true&locale=en" alt="DRF-Notes" width="100%" />
   </a>
 </div>
 
 <br />
 <br />
-<br />
+<br /> -->
 
 ## Donations
 
@@ -110,3 +110,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.coffeete.ir/AmirAbbas_Mashayekhi">
   <img src="https://img.shields.io/badge/Donate-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Donate with Rial" width="130">
 </a>
+
