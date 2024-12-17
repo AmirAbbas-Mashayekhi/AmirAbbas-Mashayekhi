@@ -46,4 +46,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 If you would like to support me, you can donate me using the following link:
 
-[![Donate with Rial](https://img.shields.io/badge/Donate-FFDD00?style=plastic&logo=buy-me-a-coffee&logoColor=black&width=240px)](https://www.coffeete.ir/AmirAbbas_Mashayekhi)
+<a href="https://www.coffeete.ir/AmirAbbas_Mashayekhi">
+  <img src="https://img.shields.io/badge/Donate-FFDD00?style=plastic&logo=buy-me-a-coffee&logoColor=black" alt="Donate with Rial" width="200">
+</a>
