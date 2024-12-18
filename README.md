@@ -76,10 +76,10 @@ AmirAbbas Mashayekhi "*RETRO*"
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirAbbas-Mashayekhi&theme=github-compact&hide_border=true)](https://github.com/AmirAbbas-Mashayekhi/github-readme-activity-graph)
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <a href="http://www.github.com/AmirAbbas-Mashayekhi" style="flex: 1 1 45%; max-width: 500px; min-width: 280px;">
+  <a href="http://www.github.com/AmirAbbas-Mashayekhi" style="flex: 1 1 40%; max-width: 500px; min-width: 280px;">
     <img src="https://github-readme-stats.vercel.app/api?username=AmirAbbas-Mashayekhi&show_icons=true&hide=&count_private=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&show_icons=true" alt="AmirAbbas-Mashayekhi's GitHub stats" />
   </a>
-  <a href="http://www.github.com/AmirAbbas-Mashayekhi" style="flex: 1 1 45%; max-width: 500px; min-width: 280px;">
+  <a href="http://www.github.com/AmirAbbas-Mashayekhi" style="flex: 1 1 40%; max-width: 500px; min-width: 280px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirAbbas-Mashayekhi&theme=github-dark&bg_color=0d1117&hide_border=true&show_icons=true" alt="AmirAbbas-Mashayekhi's GitHub Streak" />
   </a>
 </div>
