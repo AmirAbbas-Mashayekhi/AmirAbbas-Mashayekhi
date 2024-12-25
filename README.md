@@ -61,7 +61,7 @@ AmirAbbas Mashayekhi "*RETRO*"
 
 
 ### **Operating Systems**
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)](https://www.kernel.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
 
 
 
