@@ -17,7 +17,7 @@ AmirAbbas Mashayekhi "*RETRO*"
 
 
 ### **Languages**
-[![Python](https://img.shields.io/badge/Python-FFD42B?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=black)](https://www.python.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
