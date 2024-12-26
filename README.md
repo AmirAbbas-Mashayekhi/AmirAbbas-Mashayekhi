@@ -13,80 +13,18 @@ AmirAbbas Mashayekhi "*RETRO*"
 * 🤝  I'm open to collaborating on **Django / Django Rest Framework** Projects
 * ⚡  Nickname: ***RETRO***
 
-<h2>Skills</h2>
+## Skills
 
-<table style="border-collapse: collapse;" align="center">
-  <thead>
-    <tr>
-      <th style="text-align: left; font-size: 1.5em;">Category</th>
-      <th style="text-align: left; font-size: 1.5em;">Skills</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Languages</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=black" alt="Python" />
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white" alt="Go" />
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white" alt="Bash" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Frameworks</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white" alt="Django" />
-        <img src="https://img.shields.io/badge/DRF-092E20?style=plastic&logo=django&logoColor=white" alt="DRF" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" alt="Flask" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Frontend</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Databases</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Tools</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visualstudiocode&logoColor=white" alt="VSCode" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Testing</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Pytest-000000?style=plastic&logo=pytest&logoColor=white" alt="Pytest" />
-        <img src="https://img.shields.io/badge/Unittest-007D6E?style=plastic&logo=python&logoColor=white" alt="Unittest" />
-        <img src="https://img.shields.io/badge/Locust-000000?style=plastic&logo=python&logoColor=white" alt="Locust" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Task Queues</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Celery-37814A?style=plastic&logo=python&logoColor=white" alt="Celery" />
-        <img src="https://img.shields.io/badge/Celery_Beat-37814A?style=plastic&logo=python&logoColor=white" alt="Celery Beat" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Operating Systems</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+| **Category**            | **Skills**                                                                                         |
+|--------------------------|---------------------------------------------------------------------------------------------------|
+| **Languages**           | ![Python](https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white) |
+| **Frameworks**          | ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-092E20?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white) |
+| **Frontend**            | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black) |
+| **Databases**           | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white) |
+| **Tools**               | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visualstudiocode&logoColor=white) |
+| **Testing**             | ![Pytest](https://img.shields.io/badge/Pytest-000000?style=plastic&logo=pytest&logoColor=white) ![Unittest](https://img.shields.io/badge/Unittest-007D6E?style=plastic&logo=python&logoColor=white) ![Locust](https://img.shields.io/badge/Locust-000000?style=plastic&logo=python&logoColor=white) |
+| **Task Queues**         | ![Celery](https://img.shields.io/badge/Celery-37814A?style=plastic&logo=python&logoColor=white) ![Celery Beat](https://img.shields.io/badge/Celery_Beat-37814A?style=plastic&logo=python&logoColor=white) |
+| **Operating Systems**   | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) |
 
 
 
