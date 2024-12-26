@@ -1,16 +1,17 @@
-AmirAbbas Mashayekhi "*RETRO*"
----------------------------------------------
+# AmirAbbas Mashayekhi "*RETRO*"
 
-💻 **Backend Developer** | Experienced in Python, Django, and building APIs <br>
-🎓 Currently studying Computer Science at Azad University <br>
-📚 Completed `CS50x` and advancing through `CS50W` <br>
-🌱 Always learning, always improving <br>
+💻 **Backend Developer** specializing in Python, Django, and API development  
+🎓 Currently pursuing a Bachelor's in Computer Science at Azad University  
+📚 **CS50x** completed | **CS50W** in progress  
+🌱 Always learning and improving, with a focus on backend technologies  
 
-* 🌍  I'm based in Tehran/Iran
-* ✉️  You can contact me at [AmirAbbasMashayekhi.dev@gmail.com](mailto:AmirAbbasMashayekhi.dev@gmail.com)
-* 🧠  I'm learning Docker, Celery, RabbitMQ and ...
-* 🤝  I'm open to collaborating on **Django / Django Rest Framework** Projects
-* ⚡  Nickname: ***RETRO***
+---
+
+- 🌍 Based in Tehran, Iran  
+- ✉️ Reach out: [AmirAbbasMashayekhi.dev@gmail.com](mailto:AmirAbbasMashayekhi.dev@gmail.com)  
+- 🧠 Currently diving into **Docker**, **Celery**, **RabbitMQ**, and more  
+- 🤝 Open to collaboration on **Django** and **Django REST Framework** projects  
+- ⚡ **Nickname:** *RETRO*  
 
 # Skills
 
