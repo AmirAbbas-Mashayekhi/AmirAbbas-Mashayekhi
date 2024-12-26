@@ -78,7 +78,7 @@ AmirAbbas Mashayekhi "*RETRO*"
 
 <div align="center">
   <a href="http://www.github.com/AmirAbbas-Mashayekhi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirAbbas-Mashayekhi&theme=github-dark&bg_color=0d1117&hide_border=true&show_icons=true" alt="AmirAbbas-Mashayekhi's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirAbbas-Mashayekhi&theme=github-dark&bg_color=0d1117&hide_border=true&show_icons=true" alt="AmirAbbas-Mashayekhi's GitHub Streak" style="width: 70%"/>
   </a>
 </div>
 
