@@ -17,55 +17,56 @@ AmirAbbas Mashayekhi "*RETRO*"
 
 
 ### **Languages**
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=black)](https://www.python.org/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=black)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)](https://go.dev/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 
 ### **Frameworks and Libraries**
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Django Rest Framework](https://img.shields.io/badge/DRF-092E20?style=flat&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Django Rest Framework](https://img.shields.io/badge/DRF-092E20?style=plastic&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white)](https://sass-lang.com/)
 
 
 ### **Frontend Development**
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 ### **Tools & Platforms**
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
+[![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)](https://git-scm.com/)
+[![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 
 ### **Databases**
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 
 
 ### **Testing & Profiling**
-[![Pytest](https://img.shields.io/badge/Pytest-000000?style=flat&logo=pytest&logoColor=white)](https://pytest.org/)
-[![Unittest](https://img.shields.io/badge/Unittest-007D6E?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/library/unittest.html)
-[![Locust](https://img.shields.io/badge/Locust-000000?style=flat&logo=python&logoColor=white)](https://locust.io/)
-[![Silk](https://img.shields.io/badge/Silk-000000?style=flat&logo=python&logoColor=white)](https://github.com/jazzband/django-silk)
+[![Pytest](https://img.shields.io/badge/Pytest-000000?style=plastic&logo=pytest&logoColor=white)](https://pytest.org/)
+[![Unittest](https://img.shields.io/badge/Unittest-007D6E?style=plastic&logo=python&logoColor=white)](https://docs.python.org/3/library/unittest.html)
+[![Locust](https://img.shields.io/badge/Locust-000000?style=plastic&logo=python&logoColor=white)](https://locust.io/)
+[![Silk](https://img.shields.io/badge/Silk-000000?style=plastic&logo=python&logoColor=white)](https://github.com/jazzband/django-silk)
 
 
 ### **Task Queues & Scheduling**
-[![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=python&logoColor=white)](https://docs.celeryproject.org/)
-[![Celery Beat](https://img.shields.io/badge/Celery_Beat-37814A?style=flat&logo=python&logoColor=white)](https://docs.celeryproject.org/en/stable/userguide/periodic-tasks.html)
+[![Celery](https://img.shields.io/badge/Celery-37814A?style=plastic&logo=python&logoColor=white)](https://docs.celeryproject.org/)
+[![Celery Beat](https://img.shields.io/badge/Celery_Beat-37814A?style=plastic&logo=python&logoColor=white)](https://docs.celeryproject.org/en/stable/userguide/periodic-tasks.html)
 
 
 ### **Operating Systems**
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)](https://www.kernel.org/)
 
 
 ## Certifications
-[![CS50x Certificate](https://img.shields.io/badge/CS50x-Certificate-FAAF3A?style=flat&logo=Harvard&logoColor=white)](https://certificates.cs50.io/78793fd9-fb53-41af-a4d6-a1a900c8210a.png?size=letter)
+[![CS50x](https://img.shields.io/badge/CS50x-blueviolet?style=plastic&logo=google-scholar&logoColor=white "Harvard's Introduction to Computer Science")](https://certificates.cs50.io/78793fd9-fb53-41af-a4d6-a1a900c8210a.png?size=letter)
+
 
 
 ## Socials
@@ -109,6 +110,6 @@ AmirAbbas Mashayekhi "*RETRO*"
 **If you would like to support me, you can donate me using the following link:**
 
 <a href="https://www.coffeete.ir/AmirAbbas_Mashayekhi">
-  <img src="https://img.shields.io/badge/Donate-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Donate with Rial" width="130">
+  <img src="https://img.shields.io/badge/Donate-FFDD00?style=plastic&logo=buy-me-a-coffee&logoColor=black" alt="Donate with Rial" width="130">
 </a>
 
