@@ -13,7 +13,7 @@ AmirAbbas Mashayekhi "*RETRO*"
 * 🤝  I'm open to collaborating on **Django / Django Rest Framework** Projects
 * ⚡  Nickname: ***RETRO***
 
-## Skills
+# Skills
 
 | **Category**            | **Skills**                                                                                         |
 |--------------------------|---------------------------------------------------------------------------------------------------|
@@ -29,18 +29,17 @@ AmirAbbas Mashayekhi "*RETRO*"
 
 
 
-## Certifications
+# Certifications
 [![CS50x](https://img.shields.io/badge/CS50x-blueviolet?style=plastic&logo=google-scholar&logoColor=white "Harvard's Introduction to Computer Science")](https://certificates.cs50.io/78793fd9-fb53-41af-a4d6-a1a900c8210a.png?size=letter)
 
 
 
-## Socials
+# Socials
 
 <p align="left"><a href="https://www.linkedin.com/in/amirabbas-mashayekhi-5009122a5" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@amir___mash" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
 
-## Badges
 
-<b>My GitHub Stats</b>
+# My GitHub Stats
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirAbbas-Mashayekhi&theme=github-compact&hide_border=true)](https://github.com/AmirAbbas-Mashayekhi/github-readme-activity-graph)
 
