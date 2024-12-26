@@ -17,14 +17,20 @@
 
 | **Category**            | **Skills**                                                                                         |
 |--------------------------|---------------------------------------------------------------------------------------------------|
-| **Languages**           | ![Python](https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white) |
-| **Frameworks**          | ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-092E20?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white) |
-| **Frontend**            | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black) |
-| **Databases**           | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white) |
-| **Tools**               | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visualstudiocode&logoColor=white) |
-| **Testing**             | ![Pytest](https://img.shields.io/badge/Pytest-000000?style=plastic&logo=pytest&logoColor=white) ![Unittest](https://img.shields.io/badge/Unittest-007D6E?style=plastic&logo=python&logoColor=white) ![Locust](https://img.shields.io/badge/Locust-000000?style=plastic&logo=python&logoColor=white) |
-| **Task Queues**         | ![Celery](https://img.shields.io/badge/Celery-37814A?style=plastic&logo=python&logoColor=white) ![Celery Beat](https://img.shields.io/badge/Celery_Beat-37814A?style=plastic&logo=python&logoColor=white) |
-| **Operating Systems**   | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) |
+| **Languages**            | [![My Skills](https://skillicons.dev/icons?i=python,go,c,bash&theme=dark)](https://skillicons.dev) |
+| **Frameworks**           | [![My Skills](https://skillicons.dev/icons?i=django,flask,bootstrap&theme=dark)](https://skillicons.dev) |
+| **Frontend**             | [![My Skills](https://skillicons.dev/icons?i=html,css,javascript&theme=dark)](https://skillicons.dev) |
+| **Databases**            | [![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev) |
+| **Tools**                | [![My Skills](https://skillicons.dev/icons?i=docker,git,githubactions,vscode&theme=dark)](https://skillicons.dev) |
+| **Operating Systems**    | [![My Skills](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev) |
+| **API Development**      | <img src="https://img.shields.io/badge/DRF-2A3741?style=flat&logo=python&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="30"> <img src="https://img.shields.io/badge/JWT-6A5ACD?style=flat&logo=json-web-tokens&logoColor=white" height="30"> |
+| **Testing**              | <img src="https://img.shields.io/badge/Pytest-2A3741?style=flat&logo=pytest&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Unittest-238C8C?style=flat&logo=python&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Locust-2A3741?style=flat&logo=python&logoColor=white" height="30"> |
+| **Task Queues**          | <img src="https://img.shields.io/badge/Celery-238C8C?style=dlat&logo=python&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Celery_Beat-238C8C?style=flat&logo=python&logoColor=white" height="30"> |
+
+
+
+
+
 
 # Certifications
 [![CS50x](https://img.shields.io/badge/CS50x-blueviolet?style=plastic&logo=google-scholar&logoColor=white "Harvard's Introduction to Computer Science")](https://certificates.cs50.io/78793fd9-fb53-41af-a4d6-a1a900c8210a.png?size=letter) 
@@ -41,9 +47,12 @@
   </a>
 </div>
 
+
+
 <br />
 <br />
 <br />
+
 
 # Donations
 
@@ -52,3 +61,5 @@
 <a href="https://www.coffeete.ir/AmirAbbas_Mashayekhi">
   <img src="https://img.shields.io/badge/Donate-FFDD00?style=plastic&logo=buy-me-a-coffee&logoColor=black" alt="Donate with Rial" width="100">
 </a>
+
+
