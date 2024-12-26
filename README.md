@@ -1,4 +1,4 @@
-# AmirAbbas Mashayekhi "*RETRO*"
+AmirAbbas Mashayekhi "*RETRO*"
 ---------------------------------------------
 
 💻 **Backend Developer** | Experienced in Python, Django, and building APIs <br>
@@ -27,7 +27,7 @@
 
 # Certifications
 [![CS50x](https://img.shields.io/badge/CS50x-blueviolet?style=plastic&logo=google-scholar&logoColor=white "Harvard's Introduction to Computer Science")](https://certificates.cs50.io/78793fd9-fb53-41af-a4d6-a1a900c8210a.png?size=letter) 
-![CS50w In Progress](https://img.shields.io/badge/CS50w-In%20Progress-0d1151?style=plastic&)
+![CS50w In Progress](https://img.shields.io/badge/CS50w-In%20Progress-blueviolet?style=plastic&)
 
 
 # My GitHub Stats
