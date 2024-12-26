@@ -1,4 +1,4 @@
-AmirAbbas Mashayekhi "*RETRO*"
+# AmirAbbas Mashayekhi "*RETRO*"
 ---------------------------------------------
 
 💻 **Backend Developer** | Experienced in Python, Django, and building APIs <br>
@@ -6,12 +6,11 @@ AmirAbbas Mashayekhi "*RETRO*"
 📚 Completed `CS50x` and advancing through `CS50W` <br>
 🌱 Always learning, always improving <br>
 
-
-* 🌍  I'm based in Tehran/Iran
-* ✉️  You can contact me at [AmirAbbasMashayekhi.dev@gmail.com](mailto:AmirAbbasMashayekhi.dev@gmail.com)
-* 🧠  I'm learning Docker, Celery, RabbitMQ and ...
-* 🤝  I'm open to collaborating on **Django / Django Rest Framework** Projects
-* ⚡  Nickname: ***RETRO***
+* 🌍  I'm based in Tehran/Iran
+* ✉️  You can contact me at [AmirAbbasMashayekhi.dev@gmail.com](mailto:AmirAbbasMashayekhi.dev@gmail.com)
+* 🧠  I'm learning Docker, Celery, RabbitMQ and ...
+* 🤝  I'm open to collaborating on **Django / Django Rest Framework** Projects
+* ⚡  Nickname: ***RETRO***
 
 # Skills
 
@@ -26,23 +25,14 @@ AmirAbbas Mashayekhi "*RETRO*"
 | **Task Queues**         | ![Celery](https://img.shields.io/badge/Celery-37814A?style=plastic&logo=python&logoColor=white) ![Celery Beat](https://img.shields.io/badge/Celery_Beat-37814A?style=plastic&logo=python&logoColor=white) |
 | **Operating Systems**   | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) |
 
-
-
-
 # Certifications
-[![CS50x](https://img.shields.io/badge/CS50x-blueviolet?style=plastic&logo=google-scholar&logoColor=white "Harvard's Introduction to Computer Science")](https://certificates.cs50.io/78793fd9-fb53-41af-a4d6-a1a900c8210a.png?size=letter)
-
-
-
-# Socials
-
-<p align="left"><a href="https://www.linkedin.com/in/amirabbas-mashayekhi-5009122a5" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@amir___mash" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+[![CS50x](https://img.shields.io/badge/CS50x-blueviolet?style=plastic&logo=google-scholar&logoColor=white "Harvard's Introduction to Computer Science")](https://certificates.cs50.io/78793fd9-fb53-41af-a4d6-a1a900c8210a.png?size=letter) 
+![CS50w In Progress](https://img.shields.io/badge/CS50w-In%20Progress-0d1151?style=plastic&)
 
 
 # My GitHub Stats
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirAbbas-Mashayekhi&theme=github-compact&hide_border=true)](https://github.com/AmirAbbas-Mashayekhi/github-readme-activity-graph)
-
 
 <div align="center">
   <a href="http://www.github.com/AmirAbbas-Mashayekhi">
@@ -54,21 +44,6 @@ AmirAbbas Mashayekhi "*RETRO*"
 <br />
 <br />
 
-<!-- <b>Top Repositories</b>
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
-  <a href="https://github.com/AmirAbbas-Mashayekhi/TaskFlow" style="flex: 1 1 45%; max-width: 500px; min-width: 280px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirAbbas-Mashayekhi&repo=TaskFlow&theme=catppuccin_mocha&hide_border=true&locale=en" alt="TaskFlow" width="100%" />
-  </a>
-  <a href="https://github.com/AmirAbbas-Mashayekhi/DRF-Notes" style="flex: 1 1 45%; max-width: 500px; min-width: 280px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirAbbas-Mashayekhi&repo=DRF-Notes&theme=catppuccin_mocha&hide_border=true&locale=en" alt="DRF-Notes" width="100%" />
-  </a>
-</div>
-
-<br />
-<br />
-<br /> -->
-
 # Donations
 
 **If you would like to support me, you can donate me using the following link:**
@@ -76,4 +51,3 @@ AmirAbbas Mashayekhi "*RETRO*"
 <a href="https://www.coffeete.ir/AmirAbbas_Mashayekhi">
   <img src="https://img.shields.io/badge/Donate-FFDD00?style=plastic&logo=buy-me-a-coffee&logoColor=black" alt="Donate with Rial" width="100">
 </a>
-
