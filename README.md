@@ -74,6 +74,6 @@ AmirAbbas Mashayekhi "*RETRO*"
 **If you would like to support me, you can donate me using the following link:**
 
 <a href="https://www.coffeete.ir/AmirAbbas_Mashayekhi">
-  <img src="https://img.shields.io/badge/Donate-FFDD00?style=plastic&logo=buy-me-a-coffee&logoColor=black" alt="Donate with Rial" width="130">
+  <img src="https://img.shields.io/badge/Donate-FFDD00?style=plastic&logo=buy-me-a-coffee&logoColor=black" alt="Donate with Rial" width="100">
 </a>
 
