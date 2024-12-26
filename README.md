@@ -69,7 +69,7 @@ AmirAbbas Mashayekhi "*RETRO*"
 <br />
 <br /> -->
 
-## Donations
+# Donations
 
 **If you would like to support me, you can donate me using the following link:**
 
