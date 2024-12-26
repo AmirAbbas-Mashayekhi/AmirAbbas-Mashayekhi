@@ -74,7 +74,8 @@ AmirAbbas Mashayekhi "*RETRO*"
 <b>My GitHub Stats</b>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirAbbas-Mashayekhi&theme=github-compact&hide_border=true)](https://github.com/AmirAbbas-Mashayekhi/github-readme-activity-graph)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirAbbas-Mashayekhi&theme=github-compact&hide_border=true)](https://github.com/AmirAbbas-Mashayekhi/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirAbbas-Mashayekhi&theme=merko&hide_border=true)](https://github.com/AmirAbbas-Mashayekhi/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirAbbas-Mashayekhi&theme=react-dark&hide_border=true)](https://github.com/AmirAbbas-Mashayekhi/github-readme-activity-graph)
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <a href="http://www.github.com/AmirAbbas-Mashayekhi" style="flex: 1 1 40%; max-width: 500px; min-width: 280px;">
