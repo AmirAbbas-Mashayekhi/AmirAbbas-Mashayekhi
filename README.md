@@ -65,7 +65,7 @@ AmirAbbas Mashayekhi "*RETRO*"
 
 
 ## Certifications
-[![CS50x](https://img.shields.io/badge/CS50x-Certificate-blue?style=flat&logo=harvard&logoColor=white)](https://certificates.cs50.io/78793fd9-fb53-41af-a4d6-a1a900c8210a.png?size=letter)
+[![CS50x Certificate](https://img.shields.io/badge/CS50x-Certificate-FAAF3A?style=flat&logo=Harvard&logoColor=white)](https://certificates.cs50.io/78793fd9-fb53-41af-a4d6-a1a900c8210a.png?size=letter
 
 
 ## Socials
