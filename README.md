@@ -64,6 +64,9 @@ AmirAbbas Mashayekhi "*RETRO*"
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
 
 
+## Certifications
+[![CS50x](https://img.shields.io/badge/CS50x-Certificate-blue?style=flat&logo=harvard&logoColor=white)](https://certificates.cs50.io/78793fd9-fb53-41af-a4d6-a1a900c8210a.png?size=letter)
+
 
 ## Socials
 
