@@ -34,7 +34,7 @@
 
 # Certifications
 [![CS50x](https://img.shields.io/badge/CS50x-blueviolet?style=plastic&logo=google-scholar&logoColor=white "Harvard's Introduction to Computer Science")](https://certificates.cs50.io/78793fd9-fb53-41af-a4d6-a1a900c8210a.png?size=letter) 
-![CS50w In Progress](https://img.shields.io/badge/CS50w-In%20Progress-blueviolet?style=plastic&)
+[![CS50w](https://img.shields.io/badge/CS50w-orange?style=plastic&logo=google-scholar&logoColor=white "CS50's Web Programming")](https://certificates.cs50.io/cbe640ba-2a17-4dde-bd1a-c7af2230b8d1.png?size=letter) 
 
 
 # My GitHub Stats
