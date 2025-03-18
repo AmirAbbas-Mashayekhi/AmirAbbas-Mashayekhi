@@ -2,7 +2,7 @@
 
 💻 **Backend Developer** specializing in Python, Django, and API development  
 🎓 Currently pursuing a Bachelor's in Computer Science at Azad University  
-📚 **CS50x** and **CS50w** completed
+📚 **CS50x** and **CS50w** completed <br>
 🌱 Always learning and improving, with a focus on backend technologies  
 
 ---
