@@ -1,4 +1,4 @@
-# AmirAbbas Mashayekhi "*RETRO*"
+# AmirAbbas Mashayekhi
 
 💻 **Backend Developer** specializing in Python, Django, and API development  
 🎓 Currently pursuing a Bachelor's in Computer Science at Azad University  
@@ -10,8 +10,7 @@
 - 🌍 Based in Tehran, Iran  
 - ✉️ Reach out: [AmirAbbasMashayekhi.dev@gmail.com](mailto:AmirAbbasMashayekhi.dev@gmail.com)  
 - 🧠 Currently diving into **Docker**, **Celery**, **RabbitMQ**, and more  
-- 🤝 Open to collaboration on **Django** and **Django REST Framework** projects  
-- ⚡ **Nickname:** *RETRO*  
+- 🤝 Open to collaboration on **Django** and **Django REST Framework** projects    
 
 # Skills
 
